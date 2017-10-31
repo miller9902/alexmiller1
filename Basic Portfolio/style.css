@@ -1,0 +1,121 @@
+#head1 {
+	display: inline-block;
+	float: right;
+}
+
+.APC1 {
+	display: inline-block;
+	float: right;
+}
+
+.APC2 {
+	display: inline-block;
+	float: right;
+}
+
+.APC3 {
+	display: inline-block;
+	float: right;
+}
+
+#pg1 {
+	background-color: #dddddd;
+	padding: 100px;
+}
+
+#pg1text {
+	background-color: #ffffff;
+	padding: 20px;
+	width: 650px;
+	display: inline-block;
+
+}
+
+#cwm1 {
+	background-color: white;
+	float: right;
+	width: 270px;
+	display: inline-block;
+	
+}
+
+#cwmimg {
+	padding: 10px;
+	margin-left: 25px;
+	margin-bottom: 25px
+	
+
+}
+
+#aboutme {
+
+	color: #4aaaa5;
+	font-family: arial;
+}
+
+#name {
+	
+	display: inline-block;
+	color: white;
+	padding: 30px;
+	margin-bottom: 20px;
+	background: #4aaaa5;
+	font-family: times new roman;
+
+}
+
+#img {
+	float: left;
+	height: 300px;
+}
+
+#p1 {
+	
+	line-height: 150%;
+
+	}
+
+#p2 {
+	line-height: 150%;
+}
+
+#pg2text {
+	background-color: #ffffff;
+	padding: 20px;
+	width: 650px;
+	display: inline-block;
+}
+
+#pg2 {
+
+	background-color: #dddddd;
+	padding: 100px;
+}
+
+#cwm2 {
+	background-color: white;
+	float: right;
+	width: 270px;
+	display: inline-block;
+}
+
+#cwmimg1 {
+	padding: 10px;
+	margin-left: 25px;
+	margin-bottom: 25px
+}
+
+#pg3 {
+	background-color: #dddddd;
+	padding: 100px;
+}
+
+#pg3text {
+	background-color: #ffffff;
+	padding: 20px;
+	width: 650px;
+	display: inline-block;
+}
+
+
+
