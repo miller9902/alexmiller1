@@ -1,0 +1,52 @@
+#pg1 {
+	background-color: #dddddd;
+	padding: 100px;
+}
+
+#pg1text {
+	background-color: #ffffff;
+	padding: 20px;
+
+}
+
+#aboutme {
+
+	color: #4aaaa5;
+	font-family: arial;
+}
+
+#name {
+	
+	display: inline-block;
+	color: white;
+	padding: 30px;
+	margin-bottom: 20px;
+	background: #4aaaa5;
+	font-family: times new roman;
+
+}
+
+#img {
+	float: left;
+	height: 300px;
+}
+
+#p1 {
+	
+	line-height: 150%;
+	}
+
+#p2 {
+	line-height: 150%;
+}
+
+#pg2text {
+	background-color: #ffffff;
+	padding: 20px;
+}
+
+#pg2 {
+
+	background-color: #dddddd;
+	padding: 100px;
+}
