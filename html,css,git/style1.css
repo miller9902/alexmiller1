@@ -1,0 +1,13 @@
+
+button:hover {
+	margin-left: 20px;
+
+}
+
+button:focus {
+	color:blue;
+}
+
+button: active {
+	background-color: orange;
+}

@@ -1,3 +1,12 @@
+li {
+	display: inline;
+	float: right;
+	padding-left: 5px;
+	margin-left: 20px
+	
+}
+
+
 #head1 {
 	display: inline-block;
 	float: right;
@@ -6,21 +15,33 @@
 .APC1 {
 	display: inline-block;
 	float: right;
+	list-style-type: none;
+	padding-right: 140px;
+	padding-top: 20px;
 }
 
 .APC2 {
 	display: inline-block;
 	float: right;
+	color: #b79b99;
+	list-style-type: none;
+	padding-right: 140px;
+	padding-top: 20px;
 }
 
 .APC3 {
 	display: inline-block;
 	float: right;
+	color: #b79b99;
+	list-style-type: none;
+	padding-right: 140px;
+	padding-top: 20px;
 }
 
 #pg1 {
-	background-color: #dddddd;
+	background-image: url(dark-triangles.png);
 	padding: 100px;
+
 }
 
 #pg1text {
@@ -28,6 +49,7 @@
 	padding: 20px;
 	width: 650px;
 	display: inline-block;
+	font-family: arial;
 
 }
 
@@ -36,6 +58,9 @@
 	float: right;
 	width: 270px;
 	display: inline-block;
+	color: #4aaaa5;
+	font-family: times new roman;
+
 	
 }
 
@@ -43,14 +68,12 @@
 	padding: 10px;
 	margin-left: 25px;
 	margin-bottom: 25px
-	
-
 }
 
 #aboutme {
 
 	color: #4aaaa5;
-	font-family: arial;
+	font-family: times new roman;
 }
 
 #name {
@@ -58,9 +81,11 @@
 	display: inline-block;
 	color: white;
 	padding: 30px;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	background: #4aaaa5;
 	font-family: times new roman;
+	margin-left: 100px;
+	margin-top: 0px;
 
 }
 
@@ -72,11 +97,15 @@
 #p1 {
 	
 	line-height: 150%;
+	padding-left: 220px;
 
 	}
 
 #p2 {
 	line-height: 150%;
+	padding-left: 220px;
+
+
 }
 
 #pg2text {
@@ -84,11 +113,17 @@
 	padding: 20px;
 	width: 650px;
 	display: inline-block;
+	font-family: times new roman;
+
+}
+
+#contact {
+	color: #4aaaa5;
 }
 
 #pg2 {
 
-	background-color: #dddddd;
+	background-image: url(dark-triangles.png);
 	padding: 100px;
 }
 
@@ -97,6 +132,8 @@
 	float: right;
 	width: 270px;
 	display: inline-block;
+	font-family: times new roman;
+	color: #4aaaa5;
 }
 
 #cwmimg1 {
@@ -106,7 +143,7 @@
 }
 
 #pg3 {
-	background-color: #dddddd;
+	background-image: url(dark-triangles.png);
 	padding: 100px;
 }
 
@@ -117,5 +154,101 @@
 	display: inline-block;
 }
 
+.footer {
+	 position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: teal;
+    color: lightgrey;
+    text-align: center;
+    height: 70px;
+
+}
+
+
+	
+.footer p {
+	padding: 12px;
+	border-top-color: #4aaaa5;
+	position: relative;
+	border-top-color: teal;
+}
+
+#foottop {
+	height: 30px;
+	background-color: grey;
+}
+
+
+#input1 {
+	height: 150px;
+
+}
+
+#submit {
+	
+	display: inline-block;
+	color: white;
+	padding: 12px;
+	background: #4aaaa5;
+	font-family: calibri;
+	width: 100px;
+	text-align: center;
+	
+
+}
+
+#portfolio {
+	color: #4aaaa5;
+}
+
+.pic1 {
+	position: relative;
+	width: 100%;
+	float: left;
+
+}
+
+h3 {
+	position: absolute;
+	width: 41.5%;
+	background-color: teal;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	margin-top: 90px;
+
+}
+
+
+
+#img2 {
+	width: 300px;
+	padding right: 20px;
+	padding-bottom: 30px;
+}
+
+#img3 {
+	width: 300px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+}
+
+#img4 {
+	width: 300px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+
+#img5 {
+	width: 300px;
+	padding-bottom: 30px;
+}
+
+#img6 {
+	width: 300px;
+	padding-right: 30px;
+}
 
 
