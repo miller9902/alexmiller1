@@ -1,0 +1,499 @@
+li {
+	display: inline;
+	float: right;
+	padding-left: 5px;
+	margin-left: 20px
+	
+}
+
+
+#head1 {
+	display: inline-block;
+	float: right;
+}
+
+.APC1 {
+	display: inline-block;
+	float: right;
+	list-style-type: none;
+	padding-right: 140px;
+	padding-top: 20px;
+}
+
+.APC2 {
+	display: inline-block;
+	float: right;
+	color: #b79b99;
+	list-style-type: none;
+	padding-right: 140px;
+	padding-top: 20px;
+}
+
+.APC3 {
+	display: inline-block;
+	float: right;
+	color: #b79b99;
+	list-style-type: none;
+	padding-right: 140px;
+	padding-top: 20px;
+}
+
+#pg1 {
+	background-image: url(dark-triangles.png);
+	padding: 100px;
+	width: 100%;
+
+}
+
+#pg1text {
+	background-color: #ffffff;
+	padding: 20px;
+	width: 650px;
+	display: inline-block;
+	font-family: arial;
+}
+
+#cwm1 {
+	background-color: white;
+	float: right;
+	width: 270px;
+	display: inline-block;
+	color: #4aaaa5;
+	font-family: times new roman;
+
+	
+}
+
+#cwmimg {
+	padding: 10px;
+	margin-left: 25px;
+	margin-bottom: 25px
+}
+
+#aboutme {
+
+	color: #4aaaa5;
+	font-family: times new roman;
+}
+
+#name {
+	
+	display: inline-block;
+	color: white;
+	padding: 30px;
+	margin-bottom: 0px;
+	background: #4aaaa5;
+	font-family: times new roman;
+	margin-left: 100px;
+	margin-top: 0px;
+
+}
+
+#img {
+	float: left;
+	height: 300px;
+}
+
+#p1 {
+	
+	line-height: 150%;
+	padding-left: 220px;
+
+	}
+
+#p2 {
+	line-height: 150%;
+	padding-left: 220px;
+
+
+}
+
+#pg2text {
+	background-color: #ffffff;
+	padding: 20px;
+	width: 650px;
+	display: inline-block;
+	font-family: times new roman;
+
+}
+
+#contact {
+	color: #4aaaa5;
+}
+
+#pg2 {
+
+	background-image: url(dark-triangles.png);
+	padding: 100px;
+}
+
+#cwm2 {
+	background-color: white;
+	float: right;
+	width: 270px;
+	display: inline-block;
+	font-family: times new roman;
+	color: #4aaaa5;
+}
+
+#cwmimg1 {
+	padding: 10px;
+	margin-left: 25px;
+	margin-bottom: 25px
+}
+
+#pg3 {
+	background-image: url(dark-triangles.png);
+	padding: 100px;
+}
+
+#pg3text {
+	background-color: #ffffff;
+	padding: 20px;
+	width: 650px;
+	display: inline-block;
+}
+
+.footer {
+	 position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: teal;
+    color: lightgrey;
+    text-align: center;
+    height: 70px;
+
+}
+
+
+	
+.footer p {
+	padding: 12px;
+	border-top-color: #4aaaa5;
+	position: relative;
+	border-top-color: teal;
+}
+
+#foottop {
+	height: 30px;
+	background-color: grey;
+}
+
+
+#input1 {
+	height: 150px;
+
+}
+
+#submit {
+	
+	display: inline-block;
+	color: white;
+	padding: 12px;
+	background: #4aaaa5;
+	font-family: calibri;
+	width: 115px;
+	text-align: center;
+	margin-top: 10px;
+	
+
+}
+
+#portfolio {
+	color: #4aaaa5;
+}
+
+.pic1 {
+	position: relative;
+	width: 100%;
+	float: left;
+
+}
+
+.pic1 div {
+	/*width: 48%*/
+	width: 100%;
+	/*float: left;*/
+	position: relative;
+	margin-right: 1%;
+}
+
+
+
+.pic1 div img {
+	width: 100%;
+}
+
+.pic1 div h3 {
+	width: 100%;
+	background-color: teal;
+	color: white;
+	text-align: center;
+	/*padding: 15px;*/
+	margin-top: 90px;
+	padding: 15px 0;
+	bottom: 0;
+	position: absolute;
+
+}
+
+/*h3 {
+	position: absolute;
+	width: 41.5%;
+	background-color: teal;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	margin-top: 90px;
+
+}*/
+
+
+
+#img2 {
+	width: 300px;
+	padding right: 30px;
+	padding-bottom: 30px;
+}
+
+#img3 {
+	width: 300px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+}
+
+#img4 {
+	width: 300px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+
+#img5 {
+	width: 300px;
+	padding-bottom: 30px;
+}
+
+#img6 {
+	width: 300px;
+	padding-right: 30px;
+}
+
+/*@media screen and (max-width: 980px) {
+
+	
+
+}
+
+@media screen and (max-width: 768px) {
+	
+	/*page1*/
+		#pg1text {
+			width: 100%;
+		}
+
+		#p2 {
+			padding-left: 0px;
+
+		}
+
+		#img {
+
+			width: 40%;
+		}
+
+		.APC1 {
+
+			padding-right: 5px;
+		}
+
+		#cwm1 {
+			width: 100%;
+			margin-top: 20px;
+			margin-right: 0px;
+			float: none;
+
+		}
+
+	/*page2*/
+
+	#pg2text {
+		width: 100%;
+	}
+
+	#name2 {
+		width: 100%;
+	} 	
+
+	#email {
+		width: 100%;
+	}
+	#input1 {
+		width: 100%;
+	}
+	#cwm2 {
+			width: 100%;
+			margin-top: 20px;
+			margin-right: 0px;
+			float: none;
+		}
+	.APC2 {
+		padding-right: 5px;
+	}
+
+	/*page3*/
+
+	.APC3 {
+		padding-right: 5px;
+}
+
+	#cwm3 {
+			width: 100%;
+			margin-top: 20px;
+			margin-right: 0px;
+			float: none;
+	}
+
+	#pg3text {
+		width: 100%;
+	}
+
+
+
+
+
+
+@media screen and (max-width: 640px) {
+	
+	/*page 1*/
+
+	#name {
+		width: 100%;
+		margin-left: 0px;
+		text-align: center;
+	}
+
+	.APC1 {
+		width: 100%;
+		background-color: white;
+		margin-top: 0px;
+		padding-bottom: 20px;
+		text-align: center;
+		padding-right: 100px;
+		padding-left: 100px;
+
+	}
+
+	#pg1text {
+		width: 100%;
+
+		
+	
+		
+		
+	}
+
+	#p1 {
+		margin-top: 20px;
+		padding-left: 0px;
+	}
+
+	#cwm1 {
+
+		margin: 20px;
+		width: 100%;
+		float: none;
+
+	}
+
+	#pg1 {
+
+	}
+
+	#img {
+		width: 100%;
+	}
+	
+	#p2 {
+
+		padding-left: 0px;
+	}
+
+	/*page2*/
+
+	.APC2 {
+
+		width: 100%;
+		background-color: white;
+		margin-top: 0px;
+		padding-bottom: 20px;
+		text-align: center;
+		padding-right: 120px;
+		padding-left: 100px;
+	}
+
+	#pg2text {
+
+		width: 100%;
+	}
+
+
+	#cwm2 {
+		margin: 20px;
+		width: 100%;
+		float: none;
+		text-align: none;
+
+	}
+
+	#cwmtxt2 {
+		text-align: left;
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	#submit {
+		padding: 0px;
+	}
+
+	#input1 {
+		width: 100%;
+	}
+
+	#email {
+		width: 100%;
+	}
+
+	#name2 {
+		width: 100%;
+	}
+
+	/*page3*/
+
+	#pg3text {
+		width: 100%;
+	}
+
+	#cwmtxt3 {
+		text-align: left;
+		padding-left: 40px;
+		padding-right: 40px;
+
+	}
+
+	.APC3 {
+		width: 100%;
+		background-color: white;
+		margin-top: 0px;
+		padding-bottom: 20px;
+		text-align: center;
+		padding-right: 120px;
+		padding-left: 100px;
+	}
+	
+	.pic1 div {
+		width: 100%;
+	}
+}*/
+	
+
